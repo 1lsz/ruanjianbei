@@ -46,7 +46,7 @@ f.数据发布
 
 2、2算法
 
-<img src="ruanjianbei/images/8.png" width = "30%" />
+<img src="images/8.png" width = "30%" />
 
 三、软件结构、模块、接口、功能
 
