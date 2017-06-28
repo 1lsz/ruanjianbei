@@ -47,7 +47,7 @@ f.数据发布
 2、2算法
 
 <img src="images/8.png" width = "50%" />
-<img src="images/9.png" width = "30%" />
+<img src="images/9.png" width = "50%" />
 三、软件结构、模块、接口、功能
 
 3、1结构
