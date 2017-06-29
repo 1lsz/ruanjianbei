@@ -80,7 +80,7 @@ f.数据发布
 
 
 该模块是将所取得的内容进行分析，把当中出错的，不正确的内容找出来，并加以修改。修正后并将内容重新显示到网页中。
-<img src="images/07.jpeg" width = "1563px" height="651px" />
+<img src="images/07.jpg" width = "1563px" height="651px" />
 
 3、2、4数据处理模块
 
