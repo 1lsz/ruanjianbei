@@ -46,14 +46,22 @@ f.数据发布
 
 2、2算法
 
-<img src="images/8.png" width = "50%" />
-<img src="images/9.png" width = "50%" />
+<img src="images/1.png" width = "50%" />
+<img src="images/2.png" width = "50%" />
 三、软件结构、模块、接口、功能
 
 3、1结构
 
 抓取系统需要面对的是整个互联网上数以亿计的网页,抓取系统往往是一个分式的三层结构：
-<img src="images/10.png" width = "771px" height="452px" />
+<img src="images/3.png" width = "771px" height="452px" />
+
+对于一个数据中心内的不同抓取服务器，协同工作有两种：
+
+1、主从式：
+
+主从式中有一台专门的Master服务器来维护待抓取URL队列，它负责每次将URL分发到不同的Slave服务器，而Slave服务器则负责实际的网页下载工作。Master服务器除了维护待抓取URL队列以及分发URL之外，还要负责调解各个Slave服务器的负载情况。以免某些Slave服务器过于清闲或者劳累。
+
+
 3、2模块
 
 3、3接口
