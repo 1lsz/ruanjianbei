@@ -46,14 +46,14 @@ f.数据发布
 
 2、2算法
 
-<img src="images/1.png" width = "50%" />
-<img src="images/2.png" width = "50%" />
+<img src="images/01.png" width = "50%" />
+<img src="images/02.png" width = "50%" />
 三、软件结构、模块、接口、功能
 
 3、1结构
 
 抓取系统需要面对的是整个互联网上数以亿计的网页,抓取系统往往是一个分式的三层结构：
-<img src="images/3.png" width = "771px" height="452px" />
+<img src="images/03.png" width = "771px" height="452px" />
 
 对于一个数据中心内的不同抓取服务器，协同工作有两种：
 
